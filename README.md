@@ -1,2 +1,3 @@
 # CS440_CH04_Demo_Webb_Thomas
-exam 3
+
+I chose the MIT License for this repository because it allows other people to take what I have made and build on it. When making personal projects I always choose this license because I love when other people use this license. Without a textbook or notes from class the best resource to get started doing anything is looking at how someone else has done that or something similar. Building on whatever example you find is a great way to learn about something you have never used before and it only seems fair to choose a license that lets other people use my work in the same way I use theirs.
